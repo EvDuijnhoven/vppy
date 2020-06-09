@@ -1,0 +1,10 @@
+build
+dist
+.idea
+.ipynb_checkpoints
+vppy/hough/__pycache__
+vppy/transformers/__pycache__
+vppy/__pycache__
+vppy.egg-info
+.DS_Store
+example/.DS_Store
